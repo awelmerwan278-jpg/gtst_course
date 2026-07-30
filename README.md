@@ -1,2 +1,2 @@
-# This note was  taken While Taking #FFD700 Geez Security Tester @ course
+  This note was  taken While Taking Geez Security Tester @ course
 
