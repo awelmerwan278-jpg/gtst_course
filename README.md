@@ -1,2 +1,2 @@
-# This note is taken While TAking GTST
+# This note is taken While Taking GTST Course
 
