@@ -1,2 +1,2 @@
-# This note wasw  taken While Taking GTST Course  
+# This note was  taken While Taking Geez Security Tester @ course
 
